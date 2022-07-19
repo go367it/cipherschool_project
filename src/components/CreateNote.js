@@ -32,8 +32,7 @@ const CreateNote = () => {
   };
 
   return (
-    <div>
-      <Container maxWidth="sm">
+      <Container maxWidth="sm" sx={{marginBottom:'2rem'}}>
         <Paper
           variant="outlined"
           sx={{ borderRadius: "10px", padding: "1rem" }}
@@ -73,7 +72,6 @@ const CreateNote = () => {
           </Grid>
         </Paper>
       </Container>
-    </div>
   );
 };
 
