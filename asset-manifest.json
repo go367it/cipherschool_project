@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cipherschool_project/static/css/main.e6c13ad2.css",
-    "main.js": "/cipherschool_project/static/js/main.05200241.js",
+    "main.js": "/cipherschool_project/static/js/main.e247cc1e.js",
     "index.html": "/cipherschool_project/index.html",
     "main.e6c13ad2.css.map": "/cipherschool_project/static/css/main.e6c13ad2.css.map",
-    "main.05200241.js.map": "/cipherschool_project/static/js/main.05200241.js.map"
+    "main.e247cc1e.js.map": "/cipherschool_project/static/js/main.e247cc1e.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.05200241.js"
+    "static/js/main.e247cc1e.js"
   ]
 }
